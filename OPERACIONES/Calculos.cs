@@ -8,13 +8,7 @@ namespace Caso_2__T2.OPERACIONES
 {
     public class Calculos
     {
-
-        public static int trabajadores()
-        {
-            Console.Write("{0:2}", "\nTrabajadores:\t\t\t");
-            int nmrotrabajadores = int.Parse(Console.ReadLine());
-            return nmrotrabajadores; 
-        }
+        
         public static void Titulos()
         {
             Console.Write("\n");
